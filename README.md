@@ -1,1 +1,1 @@
-# text-searching-in-files
+Given 6 job description files, fine files with texts of Java and database. 

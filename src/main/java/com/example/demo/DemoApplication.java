@@ -33,34 +33,34 @@ public class DemoApplication {
 
 		return (args) -> {
 
-			for(int i=0; i<files.length; i++){
-				Path path = Paths.get(getClass().getClassLoader()
-						.getResource(files[i]).toURI());
-				List<String> lines = Files.lines(path).collect(Collectors.toList());
-				String match = "";
-				for(String str: lines){
-					if(str != null){
-						if(str.toLowerCase().contains(KEY_WORDS[0]) && str.toLowerCase().contains(KEY_WORDS[1])){
-							System.out.println("Description contains Java and database: " + files[i]);
-							break;
-						}else if(str.toLowerCase().contains(KEY_WORDS[0])){
-							if(KEY_WORDS[1].equals(match)){
-								System.out.println("Description contains Java and database:" + files[i]);
-								break;
-							}
-							match = KEY_WORDS[0];
-						}else if(str.toLowerCase().contains(KEY_WORDS[1])) {
-							if (KEY_WORDS[0].equals(match)) {
-								System.out.println("Description contains Java and database: " + files[i]);
-								break;
-							}
-							match = KEY_WORDS[1];
-						}
-					}
-				}
-			}
-
-			System.out.println("");
+//			for(int i=0; i<files.length; i++){
+//				Path path = Paths.get(getClass().getClassLoader()
+//						.getResource(files[i]).toURI());
+//				List<String> lines = Files.lines(path).collect(Collectors.toList());
+//				String match = "";
+//				for(String str: lines){
+//					if(str != null){
+//						if(str.toLowerCase().contains(KEY_WORDS[0]) && str.toLowerCase().contains(KEY_WORDS[1])){
+//							System.out.println("Description contains Java and database: " + files[i]);
+//							break;
+//						}else if(str.toLowerCase().contains(KEY_WORDS[0])){
+//							if(KEY_WORDS[1].equals(match)){
+//								System.out.println("Description contains Java and database:" + files[i]);
+//								break;
+//							}
+//							match = KEY_WORDS[0];
+//						}else if(str.toLowerCase().contains(KEY_WORDS[1])) {
+//							if (KEY_WORDS[0].equals(match)) {
+//								System.out.println("Description contains Java and database: " + files[i]);
+//								break;
+//							}
+//							match = KEY_WORDS[1];
+//						}
+//					}
+//				}
+//			}
+//
+//			System.out.println("");
 
 			for(int i=0; i<files.length; i++) {
 				Path path = Paths.get(getClass().getClassLoader()

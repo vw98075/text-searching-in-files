@@ -1,0 +1,14 @@
+Responsible for development, testing and maintenance of applications.Works with technical and business team members to create excellent software. Determines the best implementation that will meet the design, ensures that thorough unit and component testing is carried out. Adheres to software coding and style guides to ensure consistency. 
+Roles ＆ Responsibilities
+ • BS Computer Science or related field 
+ • Experience with Java
+ • 5+ years of experience as software engineer in automation and tools 
+ • Strong experience in test framework architecture, SQA methodologies.
+ • Solid object-orientated programming skills 
+ • Experience developing effective APIs and RESTful services for internal and external consumption. 
+ • Experience with Spring framework, Hibernate or any ORM framework. 
+ • Experience with database, rational, NoSql (Oracle, MySQL, MongoDB, etc).
+ • Experience working with structured data a plus. 
+ • Front-end UI development skills - is a plus (not Mandatory) 
+ • Experience using Git 
+ • Proficiency in English, with listening, speaking, reading and writing skills

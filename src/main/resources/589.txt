@@ -1,0 +1,9 @@
+Need 4 years of experience in Java along with Spring framework (Spring MVC, Spring Boot, Hibernate).
+
+Good in JavaScript frameworks such as Angular JS, React / Node.
+
+Working knowledge with AWS, GitHub/SVN Docker, Kubernetes BPM or Apache Camel is added advantage.
+
+Pls mention your number of years in below technologies:
+
+Javascript JS frameworks (Node, React, Angular etc.) JS toolkits (Highcharts, JQXGrid) Java Spring / Spring boot Camel Hibernate BPM toolsets (optional) Database, RDBMS NoSQL / Big Data (optional) Container tech (Docker, Kubernetes) Cloud env. (AWS, Azure, GCP) Message not delivered.

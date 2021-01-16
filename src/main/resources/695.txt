@@ -1,0 +1,19 @@
+omplex data structures should be designing and querying of relational databases, handling of web services and protocols tasks which you are an expert in
+
+Technologies used:
+·  Python 2 + type annotations (Python 3 soon)
+·  Django
+·  Non-relational databases
+·  Protocol Buffers
+
+Requirements:
+·  Python background
+·  Linux systems knowledge
+·  Familiar with Agile / Scrum development
+
+Your position will involve:
+·  Feature prioritization
+·  Feature effort estimation
+·  Agile / Scrum development 
+·  Be a team player
+·  Working within multicultural teams 
